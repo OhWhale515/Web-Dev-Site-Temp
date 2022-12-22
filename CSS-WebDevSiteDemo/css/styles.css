@@ -1,4 +1,15 @@
+body {
+    margin: 0;
+}
 
-div {
-    background-color: tan;
+h1 {
+    margin-top: ;
+}
+
+.top-container {
+    background-color: #FFDB89;
+}
+
+.middle-container {
+    background-color: red;
 }
