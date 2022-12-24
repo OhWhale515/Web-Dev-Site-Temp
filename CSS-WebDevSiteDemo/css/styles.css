@@ -9,6 +9,8 @@ h1 {
     font-size: 5.625rem;
     margin-top: 50px auto 0 auto;
     font-family: cursive, sans-serif;
+    color: green;
+    
 }
 
 h2 {
@@ -38,16 +40,19 @@ h3 {
 
 .Full {
     text-decoration: underline;
+    color: red;
 }
 
 .Stack {
     text-decoration: underline;
+    color: darkcyan;
 }
 
 .top-cloud {
     position: absolute;
     right: 100px;
     top: 50px;
+    
 }
 
 .bottom-cloud {
