@@ -42,6 +42,10 @@ h3 {
 
 .skill-row {
     width: 50%;
+    margin-top: 100%;
+    margin-bottom: 100%;
+    margin: auto;
+    
 }
 
 .Full {
