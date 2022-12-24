@@ -9,6 +9,7 @@ h1 {
     font-size: 5.625rem;
     margin-top: 50px auto 0 auto;
     font-family: cursive, sans-serif;
+    line-height: 5px;
     color: green;
     
 }
@@ -39,6 +40,10 @@ h3 {
     
 }
 
+.skill-row {
+    width: 50%;
+}
+
 .Full {
     text-decoration: underline;
     color: red;
@@ -65,3 +70,4 @@ h3 {
     left: 100px;
     bottom: 300px;
 }
+
