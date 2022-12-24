@@ -40,8 +40,20 @@ h3 {
     
 }
 
+.skills {
+    width: 50%;
+    margin-top: 100%;
+    margin-bottom: 100%;
+    margin: auto;
+    
+}
+
 .skill-row {
     width: 50%;
+    margin-top: 100%;
+    margin-bottom: 100%;
+    margin: auto;
+    
 }
 
 .Full {
@@ -56,18 +68,36 @@ h3 {
 
 .Development {
     text-decoration: underline;
-    color:coral
+    color:blueviolet
 }
 .top-cloud {
     position: absolute;
     right: 100px;
-    top: 50px;
-    
+    top: 25px;
+    width: 90px;
 }
 
 .bottom-cloud {
     position: absolute;
     left: 100px;
-    bottom: 300px;
+    top: 25px;
+    width: 90px;
+}
+
+.cloud-api {
+    width: 28%;
+    float: left;
+}
+
+.code {
+    width: 45%;
+    float: right;
+    
+    
+}
+
+.further {
+    width: 25%;
+    
 }
 
