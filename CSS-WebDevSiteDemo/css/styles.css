@@ -32,9 +32,6 @@ h3 {
 }
 
 .middle-container {
-    background-color: #FFDB89;
-    position: relative;
-    
     
 }
 
@@ -63,7 +60,7 @@ h3 {
 
 .Development {
     text-decoration: underline;
-    color:coral
+    color:blueviolet
 }
 .top-cloud {
     position: absolute;
@@ -78,3 +75,15 @@ h3 {
     bottom: 300px;
 }
 
+.further {
+    width: 25%;
+}
+
+.code {
+    width: 18%;
+}
+
+
+.cloud-api {
+    width: 37%;
+}
