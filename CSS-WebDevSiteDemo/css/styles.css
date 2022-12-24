@@ -6,8 +6,23 @@ body {
 }
 
 h1 {
-    margin: 0 auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: cursive, sans-serif;
+    line-height: 5px;
+    color: green;
+    
+}
+
+h2 {
+    font-family: cursive, sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: cursive, sans-serif;
+    font-size: 2.5rem;
 }
 
 .top-container {
@@ -17,29 +32,37 @@ h1 {
 }
 
 .middle-container {
-    background-color: purple;
-    width: 200px;
-    height: 200px;
+    
 }
 
+
 .bottom-container {
-    background-color: yellow;
-    width: 200px;
-    height: 200px;
+    
+}
+
+.skill-row {
+    width: 50%;
 }
 
 .Full {
     text-decoration: underline;
+    color: red;
 }
 
 .Stack {
     text-decoration: underline;
+    color: darkcyan;
 }
 
+.Development {
+    text-decoration: underline;
+    color:coral
+}
 .top-cloud {
     position: absolute;
     right: 100px;
     top: 50px;
+    
 }
 
 .bottom-cloud {
@@ -47,3 +70,4 @@ h1 {
     left: 100px;
     bottom: 300px;
 }
+
